@@ -2500,7 +2500,7 @@ optionally evidence of [=user consent=] to a specific transaction.
     ::  This attribute contains the [=authenticator data=] returned by the authenticator. See [[#sctn-authenticator-data]].
 
     :   <dfn>signature</dfn>
-    ::  This attribute contains the raw signature returned from the authenticator. See [[#sctn-op-get-assertion]].
+    ::  This attribute contains the raw [=assertion signature=] returned from the authenticator. See [[#sctn-op-get-assertion]].
 
     :   <dfn>userHandle</dfn>
     ::  This attribute contains the [=user handle=] returned from the authenticator, or null if the authenticator did not return a
